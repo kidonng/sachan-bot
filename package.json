@@ -1,0 +1,21 @@
+{
+  "name": "sachan",
+  "private": true,
+  "dependencies": {
+    "form-data": "^2.3.3",
+    "got": "^9.6.0",
+    "ip-regex": "^4.1.0",
+    "outdent": "^0.7.0",
+    "pangu": "^4.0.7",
+    "telegraf": "^3.29.0",
+    "url-regex": "^5.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.0",
+    "socks-proxy-agent": "^4.0.2"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  }
+}
