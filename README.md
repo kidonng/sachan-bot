@@ -6,7 +6,12 @@
 
 Sachan is a multifunctional Telegram bot. For detailed info, see [help](./src/help.js).
 
-Official [@sachanbot](https://t.me/sachanbot) is currently offline.
+> Official bot [@sachanbot](https://t.me/sachanbot) is currently offline.
+
+## Install
+
+- npm: `npm i sachan-bot`
+- Yarn: `yarn add sachan-bot`
 
 ## Usage
 
