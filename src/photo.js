@@ -23,7 +23,7 @@ module.exports = {
       deleteMessage,
       replyWithDocument
     }) => {
-      if (callbackQuery.data === 'waifu2x') {
+      if (callbackQuery.data === 'waifu2x' && process.env.DEEPAI_API_KEY) {
         editMessageText('Processing...')
 
         const form = new FormData()

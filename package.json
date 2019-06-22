@@ -1,6 +1,19 @@
 {
-  "name": "sachan",
-  "private": true,
+  "name": "sachan-bot",
+  "version": "0.1.0",
+  "description": "Multifunctional Telegram bot",
+  "author": "kidonng",
+  "homepage": "https://github.com/kidonng/sachan#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "src/*.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidonng/sachan.git"
+  },
   "dependencies": {
     "form-data": "2.4.0",
     "got": "9.6.0",
