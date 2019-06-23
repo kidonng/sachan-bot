@@ -10,3 +10,5 @@ deploy:
   provider: npm
   email: kidonng@gmail.com
   api_key: $npm_token
+  on:
+    tags: true
