@@ -1,0 +1,12 @@
+dist: xenial
+language: node_js
+node_js: node
+
+if: tag IS present
+
+install: true
+
+deploy:
+  provider: npm
+  email: kidonng@gmail.com
+  api_key: $npm_token
