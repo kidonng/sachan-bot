@@ -24,7 +24,7 @@ Sachan 是一个多功能的 Telegram 机器人。详细信息请参见 [帮助]
 要启动机器人，你需要提供以下环境变量：
 
 - `TELEGRAM_BOT_TOKEN`
-- `DEEPAI_API_KEY` (可选，如果你需要 waifu2x 功能)
+- [`DEEPAI_API_KEY`](https://deepai.org/) (可选，如果你需要 waifu2x 功能)
 
 ## 开发
 

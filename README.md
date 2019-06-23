@@ -24,7 +24,7 @@ Sachan is a multifunctional Telegram bot. For detailed info, see [help](./src/he
 To launch the bot, you must set the following environment variables:
 
 - `TELEGRAM_BOT_TOKEN`
-- `DEEPAI_API_KEY` (optional, if you need waifu2x function)
+- [`DEEPAI_API_KEY`](https://deepai.org/) (optional, if you need waifu2x function)
 
 ## Development
 
