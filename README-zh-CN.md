@@ -6,27 +6,27 @@
 ![npm](https://img.shields.io/npm/dt/sachan-bot.svg?style=for-the-badge)
 [![GitHub](https://img.shields.io/github/license/kidonng/sachan.svg?style=for-the-badge)](./LICENSE)
 
-English | [简体中文](README-zh-CN.md)
+[English](README.md) | 简体中文
 
 </div>
 
-Sachan is a multifunctional Telegram bot. For detailed info, see [help](./src/help.js).
+Sachan 是一个多功能的 Telegram 机器人。详细信息请参见 [帮助](./src/help.js)。
 
-> Official bot [@sachanbot](https://t.me/sachanbot) is currently offline.
+> 官方机器人 [@sachanbot](https://t.me/sachanbot) 目前处于离线状态。
 
-## Install
+## 安装
 
 - npm: `npm i sachan-bot`
 - Yarn: `yarn add sachan-bot`
 
-## Usage
+## 使用方法
 
-To launch the bot, you must set the following environment variables:
+要启动机器人，你需要提供一下环境变量：
 
 - `TELEGRAM_BOT_TOKEN`
-- `DEEPAI_API_KEY` (optional, if you need waifu2x function)
+- `DEEPAI_API_KEY` (可选，如果你需要 waifu2x 功能)
 
-## Development
+## 开发
 
-- Setup `yarn`
-- Launch `node index.js`
+- 安装依赖 `yarn`
+- 启动 `node index.js`
