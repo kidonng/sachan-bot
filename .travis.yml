@@ -5,6 +5,7 @@ node_js: node
 if: tag IS present
 
 install: true
+script: true
 
 deploy:
   provider: npm
