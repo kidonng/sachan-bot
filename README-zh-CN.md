@@ -12,7 +12,7 @@
 
 Sachan 是一个多功能的 Telegram 机器人。详细信息请参见 [帮助](./src/help.js)。
 
-> 官方机器人 [@sachanbot](https://t.me/sachanbot) 目前处于离线状态。
+> 演示机器人 [@sachanbot](https://t.me/sachanbot) 目前处于离线状态。
 
 ## 安装
 

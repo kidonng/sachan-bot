@@ -12,7 +12,7 @@ English | [简体中文](README-zh-CN.md)
 
 Sachan is a multifunctional Telegram bot. For detailed info, see [help](./src/help.js).
 
-> Official bot [@sachanbot](https://t.me/sachanbot) is currently offline.
+> Demo bot [@sachanbot](https://t.me/sachanbot) is currently offline.
 
 ## Install
 
