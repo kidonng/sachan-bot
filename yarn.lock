@@ -231,10 +231,10 @@ sandwich-stream@^2.0.1:
   resolved "https://registry.yarnpkg.com/sandwich-stream/-/sandwich-stream-2.0.2.tgz#6d1feb6cf7e9fe9fadb41513459a72c2e84000fa"
   integrity sha512-jLYV0DORrzY3xaz/S9ydJL6Iz7essZeAfnAavsJ+zsJGZ1MOnsS52yRjU3uF3pJa/lla7+wisp//fxOwOH8SKQ==
 
-telegraf@3.30.1:
-  version "3.30.1"
-  resolved "https://registry.yarnpkg.com/telegraf/-/telegraf-3.30.1.tgz#981e5cfe0a8dba1e0bfd0fffeff97929f33cbe01"
-  integrity sha512-XN/3l6ebTvsL6jMzKqkP4Nq26qw76lEd3jlM8vL40yPoA4nlCAoweTVsislS9e0i7bcqTLgr8tj+3zX6vRZAZw==
+telegraf@3.33.0:
+  version "3.33.0"
+  resolved "https://registry.yarnpkg.com/telegraf/-/telegraf-3.33.0.tgz#fe6efc4321e6af1452a50be3d653e4ae601bcdd7"
+  integrity sha512-5N47JPHVfypNW8U8xCE1hg59itFfohvRvMVceigYbj+A7pb9o9aZzjYA5MjNeTXuADubFVl/ZdWFMfNf/uN7TQ==
   dependencies:
     "@types/node" "^12.0.4"
     debug "^4.0.1"
