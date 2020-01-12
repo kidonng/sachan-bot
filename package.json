@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "form-data": "2.5.0",
-    "got": "9.6.0",
+    "got": "10.2.2",
     "ip-regex": "4.1.0",
     "outdent": "0.7.0",
     "pangu": "4.0.7",
